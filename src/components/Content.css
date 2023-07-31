@@ -1,0 +1,31 @@
+.content-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px;
+
+  height: 75vh;
+}
+.text-container {
+  width: 50%;
+}
+.text-container h1 {
+  font-size: 96px;
+  text-align: center;
+}
+
+.text-container h3 {
+  font-size: 18px;
+  text-align: center;
+}
+
+img {
+  width: 50%;
+}
+
+.dark h1 {
+  color: white;
+}
+.dark h3 {
+  color: orange;
+}

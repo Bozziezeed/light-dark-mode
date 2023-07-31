@@ -1,0 +1,12 @@
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+
+  height: 10vh;
+}
+
+.dark h1 {
+  color: #ffa500;
+}
